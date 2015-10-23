@@ -16,17 +16,19 @@ Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\D
 Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.040 seconds
+- Completed reload, in  0.039 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 26ec -> priority: 1 
-  Thread -> id: 1674 -> priority: 1 
+  Thread -> id: 2c8c -> priority: 1 
+  Thread -> id: 2c90 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.082185 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.311712 ms (FindLiveObjects: 0.020780 ms CreateObjectMapping: 0.011444 ms MarkObjects: 0.138237 ms  DeleteObjects: 0.140948 ms)
+
