@@ -17,18 +17,18 @@ Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightI
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.039 seconds
+- Completed reload, in  0.045 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: K:\Programmiertes\Unity\Day and Night Island\Builds\Windows\DayAndNightIsland_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 2c8c -> priority: 1 
-  Thread -> id: 2c90 -> priority: 1 
+  Thread -> id: 1d60 -> priority: 1 
+  Thread -> id: 2e18 -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.082185 ms
+UnloadTime: 2.947261 ms
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 288.
-Total: 0.311712 ms (FindLiveObjects: 0.020780 ms CreateObjectMapping: 0.011444 ms MarkObjects: 0.138237 ms  DeleteObjects: 0.140948 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 0.302978 ms (FindLiveObjects: 0.038248 ms CreateObjectMapping: 0.011444 ms MarkObjects: 0.126793 ms  DeleteObjects: 0.126190 ms)
 

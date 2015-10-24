@@ -23,10 +23,10 @@ public class CenaCubeController : MonoBehaviour {
 		
 		counter++;
 		
-		if (Random.value > 0.999f || counter == 600) {
+		if (Random.value > 0.999f || counter > 600) {
 			Vector3 pos = new Vector3(520,300,490);
 			Instantiate(CenaCube, pos + (Random.insideUnitSphere * 10), Quaternion.identity);
-			//counter = 0;
+			counter = 0;
 		}
 	}
 }
